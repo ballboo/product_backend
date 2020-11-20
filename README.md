@@ -4,6 +4,7 @@ $npm install
 $npm start
 ```
 ## Examples 
+*** use postman run to url
 - get all data table products use GET method
 `http://localhost:8000/api/products/`
 - get data by id input **id** is namber send data by params  <br/>
